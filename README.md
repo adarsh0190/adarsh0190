@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @adarsh0190
 - 👀 I’m interested in learning to code and get some hands-on approach to the real side of coding
-- 🌱 I’m currently studying BCA at MSU Baroda
-- 💞️ I’m looking to collaborate on python and Data Science Projects
+- 🌱 I’m currently enrolled in BCA at MSU Baroda
 - 📫 Ping me on my linkedin : (https://www.linkedin.com/in/adarsh0190/)
 
 <!---
